@@ -1,5 +1,5 @@
-﻿import ModulePage from "../components/ModulePage";
+﻿import VisualIntelligenceWorkspace from "../components/VisualIntelligence";
 
 export default function VisualIntelligence() {
-  return <ModulePage title="Visual Intelligence" />;
+  return <VisualIntelligenceWorkspace />;
 }
